@@ -8,17 +8,11 @@
         "login": "ログイン"
     },
     "popup_login": {
-        "login": {
-            "username": "ユーザー名",
-            "password": "パスワード",
-            "forgot": "ログイン情報を忘れた",
-            "button": "ログイン"
-        },
-        "register": {
-            "title": "アカウントが必要です！",
-            "description": "もしアカウントが無いのであればアカウントを作成してみませんか？",
-            "button": "登録"
-        }
+        "username": "ユーザー名",
+        "password": "パスワード",
+        "login": "ログイン",
+        "reset_password": "パスワードをリセット",
+        "create_account": "アカウントを作成"
     },
     "popup_user": {
         "links": {
