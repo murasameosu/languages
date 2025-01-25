@@ -1,0 +1,31 @@
+{
+    "menu": {
+        "home": "ホーム",
+        "beatmaps": "ビートマップ",
+        "leaderboard": "リーダーボード",
+        "documents": "ドキュメント",
+        "discord": "Discord",
+        "login": "ログイン"
+    },
+    "popup_login": {
+        "login": {
+            "username": "ユーザー名",
+            "password": "パスワード",
+            "forgot": "ログイン情報を忘れた",
+            "button": "ログイン"
+        },
+        "register": {
+            "title": "アカウントが必要です！",
+            "description": "もしアカウントが無いのであればアカウントを作成してみませんか？",
+            "button": "登録"
+        }
+    },
+    "popup_user": {
+        "links": {
+            "profile": "プロフィール",
+            "friends": "フレンド",
+            "settings": "設定",
+            "logout": "ログアウト"
+        }
+    }
+}
