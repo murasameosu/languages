@@ -17,9 +17,52 @@
     "popup_user": {
         "links": {
             "profile": "プロフィール",
+            "teams": "チーム",
             "friends": "フレンド",
             "settings": "設定",
             "logout": "ログアウト"
+        }
+    },
+    "settings": {
+        "users": {
+            "form": {
+                "username": {
+                    "title": "ユーザー名",
+                    "helper": ""
+                },
+                "email": {
+                    "title": "メール",
+                    "helper": ""
+                },
+                "me": {
+                    "title": "me!",
+                    "helper": ""
+                }
+            },
+            "change_banner": "バナーを変更",
+            "change_avatar": "アバターを変更",
+            "submit": "設定を保存する"
+        }
+    },
+    "teams": {
+        "create": {
+            "title": "チームの作成",
+            "intro": {
+                "title": "チームについて！",
+                "description": "今はまだチームに入っていないみたいです。チームページで参加できるチームを探すか、自分で新しいチームを作って、活動を始めよう！"
+            },
+            "form": {
+                "title": "新しいチームを作成しましょう！",
+                "name": {
+                    "title": "チーム名",
+                    "helper": "現在一度決めたチーム名は変更できません。"
+                },
+                "tag": {
+                    "title": "チームタグ",
+                    "helper": "最大 6 文字。"
+                }
+            },
+            "submit": "チームを作成"
         }
     }
 }
