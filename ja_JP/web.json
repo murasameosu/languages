@@ -5,7 +5,31 @@
         "leaderboards": "リーダーボード",
         "documents": "ドキュメント",
         "discord": "Discord",
-        "login": "ログイン"
+        "login": {
+            "form": {
+                "title": "ログイン",
+                "username": {
+                    "title": "ユーザー名"
+                },
+                "password": {
+                    "title": "パスワード"
+                },
+                "button": {
+                    "recover_password": "パスワードをリセット",
+                    "sign_in": "ログイン"
+                }
+            }
+            },
+            "register": {
+            "form": {
+                "title": "アカウントをお持ちでないですか？",
+                "description": "ぜひ私たちのサーバーに登録してください！",
+                "button": {
+                    "have_key": "コードを持ってます！",
+                    "about_key": "コードの入手方法"
+                }
+            }
+        }
     },
     "popup_login": {
         "username": "ユーザー名",
